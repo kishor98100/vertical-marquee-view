@@ -74,7 +74,7 @@ or
 
 ## Update Log
 
-### 2019.08.16 `Version 1.0.0`
+### 2019.08.16 `Version 1.1.0`
 
 - Dynamic Text Support: now you can use dynamic text with this component :D
 
