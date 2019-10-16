@@ -1,0 +1,15 @@
+{
+  "name": "vertical-marquee-view",
+  "version": "1.0.0",
+  "description": "Vertical Marquee View for React Native",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "vertical-marquee-view",
+    "react-native-marquee"
+  ],
+  "author": "Kishor Mainali",
+  "license": "MIT"
+}
