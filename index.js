@@ -19,7 +19,7 @@ export default class VerticalMarqueeView extends Component {
     this.animatedTransformY = new Animated.Value(0);
   }
 
-  UNSAFE_componentWillUnmount() {
+  componentWillUnmount() {
     if (this.state.animation !== null) {
       this.state.animation.stop();
     }
@@ -40,7 +40,7 @@ export default class VerticalMarqueeView extends Component {
     }
   }
 
-  UNSAFE_componentDidUpdate(prevProps, prevState) {
+  componentDidUpdate(prevProps, prevState) {
     let { textHeight, bgViewHeight, duration, animation } = this.state;
 
     if (duration === 0) {
