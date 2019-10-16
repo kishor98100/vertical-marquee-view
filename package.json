@@ -10,6 +10,11 @@
     "vertical-marquee-view",
     "react-native-marquee"
   ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kishor98100/vertical-marquee-view.git"
+  },
+ 
   "author": "Kishor Mainali",
   "license": "MIT"
 }
